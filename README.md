@@ -1,0 +1,2 @@
+# cdn
+my jsDeliver CDN
