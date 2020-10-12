@@ -281,83 +281,8 @@
           })
       }).then(function() {
           return botui.message.add({
-              delay: 1000,
-              content: "包含如下列表:"
-          })
-      }).then(function() {
-          return botui.message.add({
-              delay: 1000,
-              content: "计算机网络：自顶向下方法"
-          })
-      }).then(function() {
-          return botui.message.add({
-              delay: 1000,
-              content: "现代编译原理: C语言实现"
-          })
-      }).then(function() {
-          return botui.message.add({
-              delay: 1000,
-              content: "TCP/IP详解(全三卷)"
-          })
-      }).then(function() {
-          return botui.message.add({
-              delay: 1000,
-              content: "深入理解计算机系统(CS:APP)"
-          })
-      }).then(function() {
-          return botui.message.add({
-              delay: 1000,
-              content: "计算机组成与设计：硬件/软件接口"
-          })
-      }).then(function() {
-          return botui.message.add({
-              delay: 1000,
-              content: "计算机体系结构：量化研究方法"
-          })
-      }).then(function() {
-          return botui.message.add({
-              delay: 1000,
-              content: "计算机程序的构造和解释(SICP)"
-          })
-      }).then(function() {
-          return botui.message.add({
-              delay: 1000,
-              content: "高级编译器设计与实现"
-          })
-      }).then(function() {
-          return botui.message.add({
-              delay: 1000,
-              content: "x86汇编语言"
-          })
-      }).then(function() {
-          return botui.message.add({
-              delay: 1000,
-              content: "深入理解JVM"
-          })
-      }).then(function() {
-          return botui.message.add({
-              delay: 1000,
-              content: "深入理解JVM字节码"
-          })
-      }).then(function() {
-          return botui.message.add({
-              delay: 1000,
-              content: "深入理解Kotlin协程"
-          })
-      }).then(function() {
-          return botui.message.add({
-              delay: 1000,
-              content: "Java并发编程"
-          })
-      }).then(function() {
-          return botui.message.add({
-              delay: 1000,
-              content: "......"
-          })
-      }).then(function() {
-          return botui.message.add({
               delay: 1200,
-              content: "上面说了这么多其实自己只看完了一半不到"
+              content: "买了很多书，但是其实自己只看完了一半不到"
           })
       }).then(function() {
           return botui.message.add({
