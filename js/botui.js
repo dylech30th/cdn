@@ -367,7 +367,7 @@
       })
       var res = await botui.message.add({
           delay: 1100,
-          content: "坐标河南的一名高中生"
+          content: "一个热爱计算机科学的人"
       })
       await botui.message.add({
           delay: 1100,
